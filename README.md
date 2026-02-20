@@ -1,6 +1,11 @@
-# Challenge React - BotFilter
+# Nimble Gravity - React Challenge 🚀
 
-Proyecto desarrollado para el desafío técnico de BotFilter. La aplicación permite visualizar vacantes laborales y postularse enviando la URL del repositorio.
+Este repositorio contiene la resolución del desafío técnico propuesto por **Nimble Gravity**. La aplicación es una plataforma de gestión de vacantes que conecta con la API de reclutamiento de la empresa para procesar postulaciones de candidatos.
+
+## 🚀 Cómo ejecutar el proyecto
+
+1. Instalar dependencias: `npm install`
+2. Iniciar servidor local: `npm run dev`
 
 ## Tecnologías utilizadas
 
